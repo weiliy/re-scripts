@@ -1,0 +1,19 @@
+{
+  "name": "re-scripts",
+  "version": "0.0.1",
+  "description": "script to build apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiliy/re-scripts.git"
+  },
+  "author": "Weili Yi <yi@weiliy.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weiliy/re-scripts/issues"
+  },
+  "homepage": "https://github.com/weiliy/re-scripts#readme"
+}
