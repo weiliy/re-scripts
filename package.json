@@ -1,10 +1,13 @@
 {
   "name": "re-scripts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "script to build apps.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "re-scripts": "./bin/re-scripts.js"
   },
   "repository": {
     "type": "git",
